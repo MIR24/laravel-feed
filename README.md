@@ -54,6 +54,6 @@ php artisan vendor:publish --provider="Roumen\Feed\FeedServiceProvider"
 
 and more in the [Wiki](https://github.com/RoumenDamianoff/laravel-feed/wiki)
 
-TODO:
+## To do
 
 - [ ] Pass arbitrary arguments into $channel
