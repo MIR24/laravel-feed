@@ -56,4 +56,4 @@ and more in the [Wiki](https://github.com/RoumenDamianoff/laravel-feed/wiki)
 
 TODO:
 
-- [] Pass arbitrary arguments into $channel
+- [ ] Pass arbitrary arguments into $channel
