@@ -53,3 +53,7 @@ php artisan vendor:publish --provider="Roumen\Feed\FeedServiceProvider"
 [How to use custom content-type for your feed](https://github.com/RoumenDamianoff/laravel-feed/wiki/How-to-use-custom-content-type)
 
 and more in the [Wiki](https://github.com/RoumenDamianoff/laravel-feed/wiki)
+
+## To do
+
+- [ ] Pass arbitrary arguments into $channel
